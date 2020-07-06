@@ -11,7 +11,7 @@ public class One {
 
     private static void getInputs(){
         //takes inputs from the user
-        System.out.println("Enter Principle: ");
+        System.out.println("Enter Principal: ");
         double p = scn.nextDouble();
 
         System.out.println("Enter Rate: ");
