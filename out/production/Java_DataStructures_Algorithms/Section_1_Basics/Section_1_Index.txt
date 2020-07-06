@@ -3,3 +3,4 @@ Two: Even Odd
 Three: Sum Of n Natural Numbers
 Four: Prime or Not Prime
 Five: Fibonnaci series
+Six: GCD or HCF
