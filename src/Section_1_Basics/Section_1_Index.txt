@@ -1,2 +1,3 @@
 One: Simple Interest
 Two: Even Odd
+Three: Sum Of n Natural Numbers
