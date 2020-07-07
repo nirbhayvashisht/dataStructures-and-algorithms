@@ -7,12 +7,16 @@ Six: GCD or HCF
 Seven: Reverse a number
 Patterns
 P1:
-***
-***
-***
+* * *
+* * *
+* * *
 
 P2:
 *
-**
-***
+* *
+* * *
 
+P3:
+* * *
+* *
+*
