@@ -6,3 +6,6 @@ Decimal to Anybase conversion
 
 Three:
 Swapping elements of an array
+
+Four:
+Find the max of an array
