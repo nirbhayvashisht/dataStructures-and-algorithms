@@ -4,3 +4,5 @@ Anybase to Decimal conversion
 Two:
 Decimal to Anybase conversion
 
+Three:
+Swapping elements of an array
