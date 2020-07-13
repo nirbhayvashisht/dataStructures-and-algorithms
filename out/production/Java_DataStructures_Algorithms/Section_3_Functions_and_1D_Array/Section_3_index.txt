@@ -15,3 +15,6 @@ Linear Search
 
 Six:
 Binary Search
+
+Seven:
+Bubble Sort
