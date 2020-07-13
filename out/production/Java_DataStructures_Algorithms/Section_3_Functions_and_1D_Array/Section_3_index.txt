@@ -9,3 +9,6 @@ Swapping elements of an array
 
 Four:
 Find the max of an array
+
+Five:
+Linear Search
