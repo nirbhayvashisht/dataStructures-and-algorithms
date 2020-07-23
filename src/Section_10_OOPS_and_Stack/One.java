@@ -55,5 +55,6 @@ public class One {
         for(int i = this.top;i>=0;i--){
             System.out.print(this.data[i]+", ");
         }
+        System.out.println();
     }
 }
